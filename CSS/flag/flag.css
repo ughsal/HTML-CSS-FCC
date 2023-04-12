@@ -1,0 +1,16 @@
+.red {
+  background: #c71226;
+  height: 100px;
+}
+
+.blue {
+  background: blue;
+  height: 100px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.green {
+  background: green;
+  height: 100px;
+}
